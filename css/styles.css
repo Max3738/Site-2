@@ -325,6 +325,11 @@ main .main-left .main-item img:hover {
 		max-width: 400px;
 		width: 100%;
 	}
+	main .main-item .description-item h2 {
+		font-size: 40px;
+		max-width: 400px;
+		width: 100%;
+	}
 	main .main-item:nth-child(even) h2 {
    		text-align: left;
   	        margin-left: 0px;
